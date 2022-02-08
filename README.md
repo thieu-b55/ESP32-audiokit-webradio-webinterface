@@ -2,11 +2,11 @@
 ESP32 webradio with webinterface
 
 
-copy the files in folder <SD card files> to a SD card FAT32 formatted and put it in the SD card holder of your board
+copy the files in folder "SD card files" to a SD card FAT32 formatted and put it in the SD card holder of your board
 
 read the readme file in this folder. The easiest way is to fill in the ssid and password before you start
 
-Look in the folder <Pictures> at the picture switches and make sure you have the same configuration on your ESP32 audio kit board
+Look in the folder "Pictures" at the picture switches and make sure you have the same configuration on your ESP32 audio kit board
 
 Load the program esp32-A1S-web in your ESP32 audio kit.
 
