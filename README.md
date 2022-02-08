@@ -17,9 +17,9 @@ That's all.
 
 In case you didn't fill in the ssid or a password you don't have a webpage at 192.168.1.177
 
-connect your GSM to the network >>  ESP32webradio   sometimes it takes a few moments before this shows up on your gsm
+connect your GSM to the network >>  "ESP32webradio"   sometimes it takes a few moments before this shows up on your gsm
 
-password >>  ESP32pswd
+password >>  "ESP32pswd"
 
 go to the webpage at 192.168.4.1
 
