@@ -2,7 +2,7 @@
 ESP32 webradio with webinterface
 
 
-copy the files in folder <SD card files> to a SD card FAT32 formatted
+copy the files in folder <SD card files> to a SD card FAT32 formatted and put it in the SD card holder of your board
 
 read the readme file in this folder. The easiest way is to fill in the ssid and password before you start
 
