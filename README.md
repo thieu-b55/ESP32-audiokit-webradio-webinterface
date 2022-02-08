@@ -23,7 +23,7 @@ password >>  "ESP32pswd"
 
 go to the webpage at 192.168.4.1
 
-fill in ssid and password and push <bevestig>
+fill in ssid and password and push "bevestig"
 
 Restart the webradio and you can enjoy life and good music
 
