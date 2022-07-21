@@ -6,5 +6,5 @@ ESP32 webradio and mp3 player with webinterface
 
 With the ESP32 audiokit or with a ESP32-WROVER and PCM5102. 
 
-Howto is in the pdf files.
+Howto is in the pdf files. For the english version, sorry my english is not good.
 
