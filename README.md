@@ -10,5 +10,5 @@ ESP32-WROVER and PCM5102.
 
 Espressif ESP32 LyraT board
 
-Howto is in the pdf files. For the english version, sorry my english is not good.
+How to is in the pdf files. For the english version, sorry my english is not good.
 
