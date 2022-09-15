@@ -2,9 +2,13 @@
 ESP32 webradio and mp3 player with webinterface
 
 
-2 webradio's with a ESP32
+3 ESP32 webradio's 
 
-With the ESP32 audiokit or with a ESP32-WROVER and PCM5102. 
+ESP32 audiokit 
+
+ESP32-WROVER and PCM5102. 
+
+Espressif ESP32 LyraT board
 
 Howto is in the pdf files. For the english version, sorry my english is not good.
 
