@@ -2,7 +2,7 @@
 ESP32 webradio and mp3 player with webinterface
 
 
-3 ESP32 webradio's 
+3 X ESP32 webradio 
 
 ESP32 audiokit 
 
